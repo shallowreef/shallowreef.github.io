@@ -7,6 +7,9 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 }
+.logo-image-container {
+	min-height: 660px;
+}
 .logo-image {
 	width: 350px;
 	left: 0;
